@@ -1,0 +1,24 @@
+# Languages
+python>=3.12
+R>=4.4
+
+# Data manipulation
+pandas>=2.2
+numpy>=2.0
+scipy>=1.13
+
+# Statistical modelling
+statsmodels>=0.14
+
+# Reading and processing data (not used yet)
+pyreadr>=0.5.9
+
+# Genomics and genetic data processing (not used yet)
+pysnptools>=0.5.13
+
+# Testing (not used yet)
+pytest>=8.0
+
+# Visualization (not used yet)
+matplotlib>=3.9
+seaborn>=0.13
