@@ -7,3 +7,9 @@
 
 # Large reference dataset
 data/LDREF/
+
+# Python bytecode
+__pycache__/
+
+# Generated expression weights
+data/expression_weights/
