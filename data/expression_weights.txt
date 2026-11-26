@@ -1,0 +1,1 @@
+You can run convert_weights.R in terminal to get a consolidated tsv file of converted weights
