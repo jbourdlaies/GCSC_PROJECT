@@ -1,0 +1,6 @@
+For some reason, GitHub will not let me push the LDREF folder even though it should be within file size limits, so you can download it here instead:
+https://github.com/TiffanyAmariuta/TCSC/blob/main/README.md
+
+Running this should also work:
+wget https://data.broadinstitute.org/alkesgroup/FUSION/LDREF.tar.bz2
+tar xjvf LDREF.tar.bz2
